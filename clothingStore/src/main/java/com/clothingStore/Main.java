@@ -51,7 +51,7 @@ public class Main {
         */
 
         //Example #3
-
+        /*
         Product shirt = new Shirt("White Linen Shirt", "BrandS", 29.99, "L", "white");
         Product trouser = new Trouser("Red Linen Trousers", "BrandT", 49.99, "56", "red");
         Product shoe = new Shoe("Red Suede Shoes", "BrandS", 59.99, "44", "red");
@@ -70,7 +70,7 @@ public class Main {
 
         Cashier cashier = new CashierImpl();
         System.out.println(cashier.receipt(allCartProducts, date));
-
+        */
 
     }
 }
